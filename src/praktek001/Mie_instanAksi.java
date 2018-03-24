@@ -11,6 +11,8 @@ package praktek001;
  */
 public class Mie_instanAksi {
      public static void main(String[] args) {
-        
+        mie_instan mie_goreng = new mie_instan();
+        mie_instan mie_kering = new mie_instan();
+        mie_instan mie_kuah = new mie_instan();
     }
 }
