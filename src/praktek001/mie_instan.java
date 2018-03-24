@@ -16,11 +16,11 @@ public class mie_instan {
     String minyak;
     double harga;
     
-    void cara masak(){
-      System.out.println("bumbu :+" bumbu);
-      System.out.println("kecap :+" kecap);
-      System.out.println("kemasan :+" kemasan);
-      System.out.println("minyak :+" minyak);
-      System.out.println("harga :+" harga);
+    void cara_masak(){
+      System.out.println("bumbu :" +bumbu);
+      System.out.println("kecap :" +kecap);
+      System.out.println("kemasan :" +kemasan);
+      System.out.println("minyak :" +minyak);
+      System.out.println("harga :" +harga);
   }
 }

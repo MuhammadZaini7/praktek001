@@ -14,5 +14,7 @@ public class Mie_instanAksi {
         mie_instan mie_goreng = new mie_instan();
         mie_instan mie_kering = new mie_instan();
         mie_instan mie_kuah = new mie_instan();
+        
+        
     }
 }
