@@ -10,5 +10,17 @@ package praktek001;
  * @author proWindows7
  */
 public class mie_instan {
+   String bumbu;
+    String kecap;
+    String kemasan;
+    String minyak;
+    double harga;
     
+    void cara masak(){
+      System.out.println("bumbu :+" bumbu);
+      System.out.println("kecap :+" kecap);
+      System.out.println("kemasan :+" kemasan);
+      System.out.println("minyak :+" minyak);
+      System.out.println("harga :+" harga);
+  }
 }
