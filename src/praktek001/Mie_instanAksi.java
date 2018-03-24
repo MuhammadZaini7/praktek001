@@ -32,5 +32,10 @@ public class Mie_instanAksi {
         mie_kuah.kemasan="Biru";
         mie_kuah.minyak="Minyak Lemak";
         mie_kuah.harga=7000;
+        
+        
+        mie_goreng.cara_masak();
+        mie_kering.cara_masak();
+        mie_kuah.cara_masak();
     }
 }
